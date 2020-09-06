@@ -7,7 +7,7 @@ error_reporting(E_ALL);
 require '../vendor/autoload.php';
 
 
-echo 'Hello new feautures';
+echo 'Hello new feautures FINE';
 
 // import the Intervention Image Manager Class
 //use Intervention\Image\ImageManager;
