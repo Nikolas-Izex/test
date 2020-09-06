@@ -9,6 +9,7 @@ require '../vendor/autoload.php';
 
 echo 'Hello new feautures FINE<br>';
 echo 'Fine branch increase level!<br>';
+echo 'NEW B1{}{}{}{<br>';
 
 // import the Intervention Image Manager Class
 //use Intervention\Image\ImageManager;
