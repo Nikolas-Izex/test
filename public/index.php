@@ -7,7 +7,8 @@ error_reporting(E_ALL);
 require '../vendor/autoload.php';
 
 
-echo 'Hello new feautures FINE';
+echo 'Hello new feautures FINE<br>';
+echo 'Fine branch increase level!<br>';
 
 // import the Intervention Image Manager Class
 //use Intervention\Image\ImageManager;
